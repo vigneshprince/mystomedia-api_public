@@ -1,0 +1,12 @@
+beautifulsoup4==4.10.0
+fastapi==0.74.0
+google_api_python_client==2.37.0
+google_auth_oauthlib==0.4.1
+protobuf==3.19.4
+requests==2.25.1
+uvicorn
+tzlocal==2.1
+apscheduler==3.8.1
+cinemagoer
+aiofiles
+aiohttp
